@@ -57,7 +57,7 @@ dependencies:
   - pcaspy
   - pip
   - pint
-  - prefect=2.14.2
+  - prefect
   - pyarrow>=10.0.1
   - pydantic>2.3
   - pydm
@@ -70,7 +70,7 @@ dependencies:
   - pytest
   - pytest-benchmark
   - pytest-qt
-  - python=3.9
+  - python=3.10
   - pytorch
   - pytz
   - pyzmq
