@@ -10,7 +10,6 @@ dependencies:
   - bokeh
   - botorch=0.10.0
   - caproto
-  - cothread
   - cx_oracle
   - dask
   - dateparser
@@ -90,6 +89,7 @@ dependencies:
   - treelib
   - pip:
     - Cheetah3
+    - cothread  # Version on conda-forge not kept up to date and not python 3.11 compatible
     - ipaddress
     - matlab-wrapper
     - opencv-contrib-python
