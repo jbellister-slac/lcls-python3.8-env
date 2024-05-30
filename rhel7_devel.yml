@@ -24,7 +24,7 @@ dependencies:
   - gpflow
   - gpy
   - greenlet
-  - gym
+  - gymnasium
   - h5py
   - hdf5
   - holoviews
